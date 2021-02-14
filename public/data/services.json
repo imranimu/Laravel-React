@@ -1,0 +1,36 @@
+{
+    "services" : [
+        {
+            "id" : "1",
+            "title" : "UI/UX",
+            "content" : "Smart, eye-catching, elegant user interface, what will make the visitors impressed and get them back. That exactly what you want and it's exactly what we do.",
+            "icon" : "icon-plane"
+        },
+        {
+            "id" : "2",
+            "title" : "Web Apps",
+            "content" : "We offer feature rich dynamic sites, e-commerce, intranet applications, content management systems using latest web standards with right blend of creativity.",
+            "icon" : "icon-code"
+        },{
+            "id" : "3",
+            "title" : "CMS",
+            "content" : "No Way! If you know what it is and how it works then you must know it's power. We are specialized with most familiar CMS: WordPress, Joomla, Drupal, Magento and Opencart.",
+            "icon" : "icon-cogs"
+        },{
+            "id" : "4",
+            "title" : "Mobile Apps",
+            "content" : "This is really the age of mini device and you can't ignore the flexibility and comfortability of a Mobile Application. That's why we are here to provide Mobile Apps for different platform. ",
+            "icon" : "icon-mobile-phone"
+        },{
+            "id" : "5",
+            "title" : "Branding & SEO",
+            "content" : "Internet marketing ties together the creative and technical aspects, including design, development, advertising and sales. We are expert to build your rank, your business and your market.",
+            "icon" : "icon-globe"
+        },{
+            "id" : "6",
+            "title" : "IT Consultancy",
+            "content" : "Sometimes you will need an expert opinion, analysis or feedbacks for your product or service. We are here with such expertise personals who will show you the proper way and guideline.",
+            "icon" : "icon-umbrella"
+        }
+    ]
+}

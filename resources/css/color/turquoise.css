@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext);
+
+
+::selection
+{
+  background: #86bd40 !important;
+  color: #fff;
+}
+
+::-moz-selection
+{
+  background: #86bd40 !important;
+  color: #fff;
+}
+
+::-webkit-selection
+{
+  background: #86bd40 !important;
+  color: #fff;
+}
+
+a, a > *,
+.cbp-vimenu li.cbp-vicurrent a,
+.ca-menu2 i,
+.ca-menu2:hover h4,
+.colorful,
+.error-title,
+.cbp-qtrotator blockquote small,
+.cbp-qtrotator blockquote small a,
+h4 strong,
+.header p span i,
+.icons i,
+.components-btns .btn-default
+{
+  color: #86bd40;
+}
+
+input[type='submit'],
+.cbp-vimenu li.home-icon a,
+.navbar-nav li:first-child a,
+.nav-tabs>li>a:hover,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus,
+.portfolioFilter ul li a:hover,
+.portfolioFilter ul li.active>a,
+.portfolioFilter ul li.active>a:hover,
+.portfolioFilter ul li.active>a:focus,
+.portfolioFilter a.current,
+.view-tenth .mask, 
+.social-contact li a:hover,
+.welcome-btn a:hover,
+.cbp-qtprogress,
+.back-btn a:hover,
+.components-btns .btn-primary:hover,
+.post-image ul.icons-blogs li p,
+.view-more,
+.post-image blockquote,
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus,
+body .react-slideshow-container + div.indicators > div.active,
+.nav.nav-tabs .nav-link.active,
+.nav.nav-tabs .nav-link:hover 
+{
+  background: #86bd40;
+}
+
+#clock-ticker .block .flip-top,
+#clock-ticker .block .flip-btm
+{
+  background: #000;
+  background: rgba(0,0,0,0.3);
+}
+
+input:focus,
+input:hover,
+textarea:focus,
+textarea:hover,
+input[type='submit'],
+.og-details a,
+.back-btn a:hover,
+.welcome-btn a:hover,
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus
+{
+  border: 1px solid #86bd40 !important;
+}
+
+.components-btns .btn-primary:hover,
+.components-btns .btn-default
+{
+  border: 2px solid #86bd40;
+}
+
+.cbp-vimenu li a:hover,
+.cbp-vimenu li a.active
+{
+  background: #1b1b1b;
+  border-bottom: 1px solid #86bd40;
+}
+
+.panel-default>.panel-heading:hover
+{
+  background-color: #86bd40 !important;
+}
+
+.icons i
+{
+  border: 3px solid #86bd40;
+}
+
+.ca-menu2:hover,
+.navbar-nav li  a:hover,
+.navbar-nav li a a.active,
+.team-box:hover
+{
+  border-bottom: 3px solid #86bd40 !important;
+}
+
+.og-grid li.og-expanded > a::after
+{
+  border-bottom-color: #86bd40 !important;
+}
+
+.category_menu li a:hover
+{
+  background: url(../img/bullet.png) no-repeat 2% 50% #86bd40 !important;
+}
+
+.navbar-nav li a:hover
+{
+  background: #86bd40;
+}
+/**/
+#example li.home-icon a{ background: none repeat scroll 0 0 #213546; }
+
+.nav.nav-tabs .nav-link.active, .nav.nav-tabs .nav-link:hover{
+  border-color: #86bd40;
+}

@@ -1,0 +1,49 @@
+{
+    "quotes" : [
+        {
+            "id" : "1",
+            "name" : "Joe Manning",
+            "address" : "Sydney, Australia",
+            "website" : "",
+            "webUrl" : "",
+            "quote" : "Fantastic Service, Great Communication and Knows his Stuff (even when I don't). Thanks for adding more value to my project!!",
+            "image" : "https://systway.com/img/testimonials/emu.png"
+        },
+        {
+            "id" : "2",
+            "name" : "Frank Reinecke",
+            "address" : "Taipei City, Taiwan",
+            "website" : "dzinegurus.de",
+            "webUrl" : "http://www.dzinegurus.de",
+            "quote" : "A real professional group. Highly experienced, supportive and very good communication. We made a lot of projects together.",
+            "image" : "https://systway.com/img/testimonials/frank.jpg"
+        },
+        {
+            "id" : "3",
+            "name" : "Jean Melo",
+            "address" : "Brazil",
+            "website" : "",
+            "webUrl" : "",
+            "quote" : "Professional and well comunicated with good understanding of all project's needs. Very glad to work with a them. And we must conitnue in future.",
+            "image" : "https://systway.com/img/testimonials/melo.jpg"
+        },
+        {
+            "id" : "4",
+            "name" : "Rose Lee",
+            "address" : "Taipei City, Taiwan",
+            "website" : "Webdesignholic.com",
+            "webUrl" : "http://www.webdesignholic.com",
+            "quote" : "We did a lot of projects already and some are onging. No doubt they are doing exactly what I want. Best wishes for them.",
+            "image" : "https://systway.com/img/testimonials/rose.jpg"
+        },
+        {
+            "id" : "5",
+            "name" : "Hope Gray",
+            "address" : "LA, USA",
+            "website" : "Alistgreek.com",
+            "webUrl" : "http://www.alistreek.com",
+            "quote" : "It's more than two years I've been working with them and very easy to say they are the best. I really love to work with them",
+            "image" : "https://systway.com/img/testimonials/hope.jpg"
+        }
+    ]
+}

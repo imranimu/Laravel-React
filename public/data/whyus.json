@@ -1,0 +1,39 @@
+{"whyUs": [
+		{
+			"id" : "1",
+			"icon" : "icon-heart",
+			"title" : "With Love and Care",
+			"content" : "We love to get you back with your next project and our most of the client do so just because of our caring, support and quality. It's our responsibility to make you happy."
+		},
+		{
+			"id" : "2",
+			"icon" : "icon-code",
+			"title" : "Fully Professional",
+			"content" : "We are professional and dedicated. We analysis, plan, implement, test and deliver. We always maintain keeping update by regular reporting."
+		},
+		{
+			"id" : "3",
+			"icon" : "icon-eye-open",
+			"title" : "Quality & Timeline",
+			"content" : "Our first asset is our great quality. We never compromise with it at any means. We know how valuable your time is and we never miss the deadline."
+		},
+		{
+			"id" : "4",
+			"icon" : "icon-thumbs-up",
+			"title" : "Client Satisfaction",
+			"content" : "Client satisfaction is the top most priority. We normally accept unlimited times of modification request during project time. We don't do anything, It's Okay. We do, Wow, it's great."
+		},
+		{
+			"id" : "5",
+			"icon" : "icon-lightbulb",
+			"title" : "Creativity & Perfection",
+			"content" : "We are creative and perfectionist. We consider all related factors to make a project secure, enhance able, attractive and eye-catching."
+		},
+		{
+			"id" : "6",
+			"icon" : "icon-medkit",
+			"title" : "Unlimited Support",
+			"content" : "24/7 is not just a word to us. Tell us, what you need and be sure we will get back to you with smile within next few hours maximum."
+		} 
+	]
+}

@@ -1,0 +1,367 @@
+@charset "utf-8";
+
+/* CSS Document */
+/*
+Theme Name:  Fantazia - from Creative WP.k
+Description:  Fantazia - Multi Purpose Bootstrap Retina One Page Template
+Version: 1.0 - initial release
+Author:  Creative WP
+Website:  http://creative-wp.com/themes/fantazia
+*/
+
+/*  Progress Bar */
+
+.progress-bar
+{
+  font-size: 14px;
+  text-align: right;
+  line-height: 30px;
+  padding-right: 10px;
+}
+
+
+/* Tabs */
+
+.nav-tabs
+{
+  border-bottom: none;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.nav-tabs>li
+{
+  float: none;
+  margin-bottom: 0px;
+  display: inline-block;
+}
+
+.nav-tabs>li> a
+{
+  line-height: 1.428571429;
+  border-radius: 0px;
+  background: #f1f1f1;
+  color: #2a2a2a;
+  font-family: "Oswald", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: none;
+  letter-spacing: 0.1em;
+}
+
+.nav-tabs>li:hover> a
+{
+  color: #fff;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus
+{
+  color: #fff;
+  border-bottom: none;
+}
+
+.tab-content
+{
+  border-top: none;
+  border: 1px solid #ddd;
+  background: #ffffff; 
+  padding: 20px;
+}
+
+.panel-collapse {
+  background: #ffffff; 
+}
+
+.tab-content>.tab-pane,
+.pill-content>.pill-pane
+{
+  display: none;
+}
+
+.tab-content>.active,.pill-content>.active
+{
+  display: block;
+}
+
+
+/*  Collapse */
+
+.panel
+{
+  margin-bottom: 20px;
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.0);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.0);
+}
+
+.panel-body
+{
+  padding: 20px;
+}
+
+.panel-heading
+{
+  padding: 10px 15px;
+  border-bottom: none;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-radius: 0px;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+h4.panel-title
+{
+  font-weight: normal;
+  margin: 0px;
+}
+
+.panel-title a
+{
+  color: #2a2a2a;
+  display: block;
+  padding: 10px 10px;
+  text-decoration: none;  
+  font-weight: 300; 
+  letter-spacing: 0.1em;
+}
+
+.panel-title:hover a
+{
+  color: #fff;
+}
+
+.panel-default
+{
+  border-color: #dddddd;
+}
+
+.panel-default>.panel-heading
+{
+  background-color: #f1f1f1;
+  color: #2a2a2a;
+}
+
+.panel-group .panel
+{
+  border-radius: 0px;
+}
+
+h3.panel-title
+{
+  font-weight: normal;
+  padding: 5px;
+}
+
+.nav .caret
+{
+  border-top-color: #fff;
+  border-bottom-color: #fff;
+}
+
+.nav .caret:hover
+{
+  border-top-color: #fff;
+  border-bottom-color: #fff;
+}
+
+.nav a:hover .caret
+{
+  border-top-color: #fff;
+  border-bottom-color: #fff;
+}
+
+blockquote:hover
+{
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.panel-primary>.panel-heading h3, .carousel-caption h3
+{
+  color: #fff;
+}
+
+.dropdown-menu
+{
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 40px;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  font-size: 14px;
+  list-style: none;
+  background: none;
+  border: none;
+  border-radius: 0px;
+  -webkit-box-shadow: 0 0px 0px rgba(0,0,0,0.0);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.0);
+  background-clip: padding-box;
+}
+
+.dropdown-toggle
+{
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  font-size: 16px;
+}
+
+.dropdown-toggle i
+{
+  color: #fff;
+}
+
+.main-menu .close
+{
+  opacity: 1;
+  font-weight: normal;
+  font-size: 12px;
+  text-shadow: 0 0px 0 #000;
+}
+
+.dropdown
+{
+  width: 100%;
+  text-align: center;
+}
+
+.container .jumbotron
+{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.jumbotron p
+{
+  font-size: 16px;
+}
+
+th
+{
+  font-family: 'Oswald', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+.btn-group>.btn, .btn-group-vertical>.btn
+{
+  margin-bottom: 10px;
+}
+
+.nav-tabs>li>a i
+{
+  color: #2a2a2a;
+}
+
+.nav-tabs>li.active>a i
+{
+  color: #fff;
+}
+
+input, textarea
+{
+  padding: 5px 5px;
+}
+
+.jumbotron p, .jumbotron a
+{
+  font-size: 18px;
+}
+/* tooltips */
+
+.tooltip
+{
+  letter-spacing: 1px;
+}
+
+.components-btns .btn {
+	border-radius:0px;
+}
+
+.components-btns .btn-primary {
+	border-radius:0px;
+	background:none;
+	border:2px solid #2a2a2a;
+	background:#2a2a2a;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.components-btns .btn-default {
+	border-radius:0px;
+	background:none;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.components-btns .btn-default:hover {
+	border:2px solid #2a2a2a;
+	color:#2a2a2a;
+}
+
+
+.components-btns .jumbotron .btn {
+	border-radius:0px;
+}
+
+/*  Carousal */
+
+.carousel {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+.carousal-blogs {
+	display:block;
+	height:400px;
+	overflow:hidden;
+}
+
+.glyphicon i {
+	color:#fff;
+	font-size:40px;
+	text-shadow:5px 5px 0px rgba(1,1,1,0.1);
+}
+
+.pagination {
+	margin:0 auto;
+	text-align:center;
+	margin-bottom:40px;
+}
+
+@media only screen and (max-width: 767px)
+{
+ 
+
+  .container
+  {
+    padding-right: 15px;
+    padding-left: 15px;
+	overflow-x:hidden;
+  }
+}

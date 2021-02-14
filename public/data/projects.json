@@ -1,0 +1,132 @@
+{
+    "projects" : [
+        {
+            "id" : "1",
+            "title" : "Aditi",
+            "content" : "A smart site for welknown NGO Aditi, Bangladesh",
+            "weburl" : "http://aditibd.org/",
+            "image" : "https://systway.com/img/projects/Aditibd.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "2",
+            "title" : "Goedkoopste",
+            "content" : "Custom Multivendor Application using Laravel 4.3",
+            "weburl" : "http://goedkoopbeltegoed.nl/",
+            "image" : "https://systway.com/img/projects/Goedkoopste.png",
+            "type" : ""
+        },
+        {
+            "id" : "3",
+            "title" : "A List Greek",
+            "content" : "A complete eCommerce site with Woocommerce.",
+            "weburl" : "http://alistgreek.com/",
+            "image" : "https://systway.com/img/projects/a-list.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "4",
+            "title" : "Iceland4less",
+            "content" : "Dynamic tourism application with WordPress, Bokun and Borgun. ",
+            "weburl" : "http://iceland4less.is/",
+            "image" : "https://systway.com/img/projects/Iceland4less.png",
+            "type" : ""
+        },
+        {
+            "id" : "5",
+            "title" : "Shongkha",
+            "content" : "A Simple WordPress plugin for Bangla Number Translation. ",
+            "weburl" : "http://wordpress.org/plugins/shongkha/",
+            "image" : "https://systway.com/img/projects/shongkha.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "6",
+            "title" : "Ls1Dental",
+            "content" : "A Clean and Nice WP for dental techniques and technology",
+            "weburl" : "http://www.ls1dental.co.uk/",
+            "image" : "https://systway.com/img/projects/ls1dental.png",
+            "type" : ""
+        },
+        {
+            "id" : "7",
+            "title" : "Soul Gourmet",
+            "content" : "Wonderful site for a Resturant with a lot of functionalities.",
+            "weburl" : "http://soulgourmet.com.br/",
+            "image" : "https://systway.com/img/projects/soul-gourmet.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "8",
+            "title" : "Vcondos",
+            "content" : "A Property Listing project for luxuary villas and condos. ",
+            "weburl" : "http://vcondos.com/",
+            "image" : "https://systway.com/img/projects/vcondos.png",
+            "type" : ""
+        },
+        {
+            "id" : "9",
+            "title" : "SmashMyGoal",
+            "content" : "A wonderful idea for Goals.",
+            "weburl" : "http://smashmygoal.com/",
+            "image" : "https://systway.com/img/projects/smashmygoal.png",
+            "type" : ""
+        },
+        {
+            "id" : "10",
+            "title" : "Pspkprojekhkrai",
+            "content" : "Custom WordPress project for Hospital Kuala Krai.",
+            "weburl" : "http://pspkprojekhkrai.my/",
+            "image" : "https://systway.com/img/projects/pspkprojekhkrai.png",
+            "type" : ""
+        },
+        {
+            "id" : "11",
+            "title" : "Yoep",
+            "content" : "A Event management dashboard.",
+            "weburl" : "http://yoep-p.eu/",
+            "image" : "https://systway.com/img/projects/yoep.png",
+            "type" : ""
+        },
+        {
+            "id" : "12",
+            "title" : "Saint",
+            "content" : "Responsive and Parallax HTML Template for Photography, Portfolio base website. ",
+            "weburl" : "http://demo.fanush.net/saint/",
+            "image" : "https://systway.com/img/projects/saint.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "13",
+            "title" : "WP Flickr",
+            "content" : "WordPress Plugin to grab Flickr Photos. Very Easy to use by Shortcode.",
+            "weburl" : "http://wordpress.org/plugins/wp-flicker/",
+            "image" : "https://systway.com/img/projects/wp-flickr.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "14",
+            "title" : "Insta Famous",
+            "content" : "Instagram API base apps to get famous and earn coins. ",
+            "weburl" : "http://www.instafamous.com/",
+            "image" : "https://systway.com/img/projects/Insta-Apps.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "15",
+            "title" : "Mira Music",
+            "content" : "Nice webapps for Adam Schiff's.",
+            "weburl" : "http://www.miramusic.biz/",
+            "image" : "https://systway.com/img/projects/Mira_music.jpg",
+            "type" : ""
+        },
+        {
+            "id" : "16",
+            "title" : "Midwex",
+            "content" : "Wonderful design with Custom backend",
+            "weburl" : "http://www.midwex.com/",
+            "image" : "https://systway.com/img/projects/midwex.png",
+            "type" : ""
+        }
+    ]
+}
